@@ -1,1 +1,1 @@
-"Hello SANE Academy!" 
+Hello SANE Academy! 🚀 We are learning Git.
